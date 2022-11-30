@@ -1,0 +1,10 @@
+{
+  "name": "html-fund-me",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Wilmer Daza",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.0"
+  }
+}
